@@ -1,0 +1,1 @@
+## The purpose is was to get the user to input the travel location and then asking how many times they would like to travel. I wanted to incorporate question of living there or not as well, but was confused after I was done.
