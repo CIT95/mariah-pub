@@ -2,7 +2,7 @@ import random
 # What self development I should be working today
 user = input("Hello Beautiful! How do you feel today? \n")
 feelings = ['Happy', 'Sad', 'Angry', 'Over life', 'Joyful', 'Depressed', 'Moody']
-weather = ['Rainy','Sunny', 'Cloudy', 'Storm', 'Snowing']
+weather = ['Rainy', 'Sunny', 'Cloudy', 'Storm', 'Snowing']
 self_development = ['Read a book', 'treat yourself to coffee', 'Meditate', 'Watch a movie', 'Workout for 30mnin']
 loving_words = ['You are amazing', 'Keep up the work', 'You rock', 'Be kind to yourself', 'Love yourself', 'Embrace change', 'Trust the process']
 treat_yourself = ['Starbucks', 'Dutch Bros', 'Teazers', 'Kuppa Joy']
