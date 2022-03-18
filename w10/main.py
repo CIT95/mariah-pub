@@ -1,7 +1,7 @@
 # Learn together week 8
-# I want to say there is about 9 errors in this code. 
+# I want to say there is about 9 errors in this code.
 # They are logic errors
-# I would rate this as a 1-4 
+# I would rate this as a 1-4
 
 
 import random
@@ -25,9 +25,9 @@ for day_feeling in feelings:
         print(f"Take a deep breath it will be fine. Don't spend more than five minutes mad. " f"{vibes}!")
 self = input("What is the forcast for today?\n")
 for forcast in weather:
-    if forcast == "Storm":
+    if forcast >= "Storm":
         day = random.choice(home_activ)
         print(f"Here are some options for your day; " f"{day}")
-    elif forcast == "Sunny":
+    elif forcast <= "Sunny":
         sunshine = random.choice(self_development)
         print(f"Have an awesome day " f"{sunshine}")
